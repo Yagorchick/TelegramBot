@@ -1,0 +1,18 @@
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.AssemblyInfo.cs
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\TelegramBOT Test.exe
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\TelegramBOT Test.deps.json
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\TelegramBOT Test.runtimeconfig.json
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\TelegramBOT Test.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\TelegramBOT Test.pdb
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\Telegram.1B074235.Up2Date
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\refint\TelegramBOT Test.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.pdb
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\TelegramBOT Test.genruntimeconfig.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\obj\Debug\net8.0\ref\TelegramBOT Test.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\Test\TelegramBOT Test\bin\Debug\net8.0\System.Text.Json.dll
