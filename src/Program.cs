@@ -6,7 +6,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 
-var token = Environment.GetEnvironmentVariable("YOUR_BOT_TOKEN") ?? "8007983985:AAF3MRtvWfHoSFvujVy2KXCQwl1ZTDWV5QA";
+var token = Environment.GetEnvironmentVariable("YOUR_BOT_TOKEN") ?? "---";
 
 Dictionary<long, string> userNames = new Dictionary<long, string>();
 Dictionary<long, string> userBets = new Dictionary<long, string>();
@@ -176,7 +176,7 @@ async Task OnUpdate(Update update)
 
 
 
-// 8007983985:AAF3MRtvWfHoSFvujVy2KXCQwl1ZTDWV5QA
+// ---
 
 /*
             await bot.SendMessage(msg.Chat, """
@@ -353,4 +353,4 @@ async Task OnCommand(string command, string args, Message msg)
 }
 */
 
-// 8007983985:AAF3MRtvWfHoSFvujVy2KXCQwl1ZTDWV5QA
+// ---
