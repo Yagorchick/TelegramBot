@@ -467,14 +467,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\TelegramBot_Test\\src\\TelegramBOT Test.csproj",
-      "projectName": "TelegramBOT Test",
-      "projectPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\TelegramBot_Test\\src\\TelegramBOT Test.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+      "projectName": "TelegramBot",
+      "projectPath": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\TelegramBot_Test\\src\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\TelegramBot\\TelegramBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\TelegramBot_Test\\src\\NuGet.Config",
+        "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\TelegramBot\\TelegramBot\\NuGet.Config",
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

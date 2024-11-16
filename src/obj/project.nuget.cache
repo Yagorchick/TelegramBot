@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDFhXj68cy0=",
+  "dgSpecHash": "ojOpj8YSEH8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\TelegramBot_Test\\src\\TelegramBOT Test.csproj",
+  "projectFilePath": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
